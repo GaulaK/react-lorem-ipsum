@@ -1,6 +1,6 @@
 const Description = (props) => {
   console.log("test");
-  return <p className={props.className}>{props.text}</p>;
+  return <p className="paragraph">{props.text}</p>;
 };
 
 export default Description;
