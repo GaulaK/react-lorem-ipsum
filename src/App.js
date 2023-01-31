@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <Content
-        name="Lorem"
-        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+        title="Lorem"
+        paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
           porttitor aliquet risus, sed venenatis dui rutrum sed. Praesent
           ultrices feugiat felis ac volutpat. Etiam id rhoncus dui. Praesent
           porttitor massa vel massa efficitur, ac aliquet magna hendrerit. Cras
@@ -19,8 +19,8 @@ function App() {
           tempor tortor vulputate."
       />
       <Content
-        name="Ipsum"
-        text="Cras sollicitudin, velit vitae vehicula laoreet, lorem sem auctor libero,
+        title="Ipsum"
+        paragraph="Cras sollicitudin, velit vitae vehicula laoreet, lorem sem auctor libero,
          nec dictum mauris justo at nisl. Nam fermentum vitae eros in sollicitudin.
           Aliquam sit amet nisi fermentum, elementum nisi eu, pellentesque orci. 
           Vestibulum hendrerit nunc ut suscipit dictum. Nullam faucibus ultrices nisi, 
