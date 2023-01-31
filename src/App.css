@@ -2,24 +2,16 @@
   background-color: #c4c4c4;
   width: 600px;
   margin-bottom: 30px;
-  padding: 16px 0;
+  padding: 15px 16px 12px 16px;
 }
 .title {
-  margin: 15px 115px 25px 16px;
-
+  margin-bottom: 25px;
   font-weight: 700;
   font-size: 30px;
   line-height: 35px;
 }
 
 .paragraph {
-  margin: 0 16px 12px 16px;
-
-  font-weight: 400;
   font-size: 18px;
   line-height: 21px;
-}
-
-body {
-  margin: 0;
 }
